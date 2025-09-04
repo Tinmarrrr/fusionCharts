@@ -6,7 +6,7 @@ This project is only intended to test **Fusion Chart**.
 
 ---
 
-![Fusion Chart Test](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZya2ZpY3gxd3kyOGZoZjYwdG1raTlnbmVoNHVlbnBpZnBxcGNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgzCfht67MPw0L)
+![Fusion Chart Test](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZya2ZpY3gxd3kyOGZoZjYwdG1raTlnbmVoNHVlbnBpZnBxcGNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgzCfht67MPw0LUy9o/giphy.gif)
 
 ---
 
