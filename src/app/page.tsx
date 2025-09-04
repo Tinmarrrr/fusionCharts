@@ -28,8 +28,8 @@ export default function Home() {
             Jour de pluie
           </CardTitle>
           <CardDescription className='text-center'>
-            FusionChart / Next.js / TailwindCSS / Shadcn UI / FusionCharts /
-            TypeScript / Vercel
+            FusionChart / Next.js / TailwindCSS / Shadcn UI / TypeScript /
+            Vercel
           </CardDescription>
           <Button
             className='mt-4 w-full flex items-center justify-center gap-2'
