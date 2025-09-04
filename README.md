@@ -12,7 +12,7 @@ This project is only intended to test **Fusion Chart**.
 
 ## Previous Work (Quantfox)
 
-Here are some sample charts I created during my time at **Quantfox**:
+Here are some sample charts I worked with during my time at **Quantfox** using **Highcharts**:
 
 ![Quantfox Chart 1](public/quantfox/chart1.jpeg)
 ![Quantfox Chart 2](public/quantfox/chart2.jpeg)
